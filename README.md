@@ -67,3 +67,14 @@ Map Reduce - Was very popular
       - in-memory procesisng engine(it happens in map reduce- but intermedit disk operation, here is on read and one write operation)
       - in-memory operation happens on the each cluster node
     
+Spark Architecture
+  - Apache Spark Core
+  - Spark SQL 
+  - Spark Streaming
+  - ML LIb
+  - Graphic
+  
+  Spark Nothing but Processing Engine only 
+  File, DB, S3 
+  
+  
