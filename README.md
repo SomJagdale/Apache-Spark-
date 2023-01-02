@@ -33,3 +33,7 @@ Created framework HADOOP
     Distribution 
     Output
 
+Test 
+100 TB sorted in 22 min only by 1000 servers cluster
+
+
