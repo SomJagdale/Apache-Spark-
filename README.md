@@ -19,3 +19,4 @@ Multiple processing working together for common goal (2500 servers)
 
 All servers are connected each others we call it cluster 
 we call that server nodes and they connected high bandwidth network 
+Each server has its dedicated RAM, HARD DISK, CPU - which process executes some jobs or task
