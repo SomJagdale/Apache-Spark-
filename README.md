@@ -26,4 +26,10 @@ Challages for above approach
 1.  Maintanance (Network failure, Disk failed, CPU motherboard issue, RAM issue, overheating)
 2.  Who will distribution, who will assign the task to difference task, who will scheduling, who will balance the load across all servers
 3.  Network bandwidth
-4.  
+
+Doog cutting (Father of Hadoop) - 
+Created framework HADOOP
+    Monitoring
+    Distribution 
+    Output
+
