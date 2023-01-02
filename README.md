@@ -13,5 +13,8 @@ We can solve above problem with below technologies
   -  NoSQL (It help you to store huge size of data, but we need to process that data(like finding the rating or reviews, popularity), Good storage but not good comput)
   -  Exel (100000) it gives error when xls has 1L rows even for opening
 
+To solve this they come with distributed programming ie distributed processing 
+Multiple processing working together for common goal (2500 servers)
+
 
 
