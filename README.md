@@ -39,3 +39,18 @@ Test
 Hadoop has 18 plus components 
 
 We are going to focus one compnents ie map reduce 
+Map Reduce - Was very popular
+           - Legacy technology 
+           - Accepted by yahoo
+           - it used till 2009 
+           - matai zomb find limitation of map reduce 
+          
+      file -> read that file in to memory(Mapping) -> Temp location in disk -> Reduce read it and write to another file location 
+      here we have to read 2 time and write 2 times 
+     
+     
+  distribution system has main critical point is 
+  network bandwidth 
+  read/write disk operations 
+  
+  
