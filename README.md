@@ -112,3 +112,5 @@ in cloud, software managed by spark and hardware managed by aws
     -  5MB + 6MB + 5MB
   
   ### Lazy Evaluation 
+    - Only action force spark to fetch the data
+    
