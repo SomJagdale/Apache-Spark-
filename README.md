@@ -110,4 +110,5 @@ in cloud, software managed by spark and hardware managed by aws
     -  It nothing but pointers 
     -  Partition1 + Partition2 + partition3 
     -  5MB + 6MB + 5MB
-    
+  
+  ### Lazy Evaluation 
