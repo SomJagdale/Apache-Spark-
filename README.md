@@ -17,6 +17,13 @@ To solve this they come with distributed programming ie distributed processing
 Multiple processing working together for common goal (2500 servers)
 
 
+Solution A
 All servers are connected each others we call it cluster 
 we call that server nodes and they connected high bandwidth network 
 Each server has its dedicated RAM, HARD DISK, CPU - which process executes some jobs or task
+
+Challages for above approach 
+1.  Maintanance (Network failure, Disk failed, CPU motherboard issue, RAM issue, overheating)
+2.  Who will distribution, who will assign the task to difference task, who will scheduling, who will balance the load across all servers
+3.  Network bandwidth
+4.  
