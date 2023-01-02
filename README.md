@@ -69,10 +69,10 @@ Map Reduce - Was very popular
     
 Spark Architecture
   - Apache Spark Core
-  - Spark SQL 
-  - Spark Streaming
-  - ML LIb
-  - Graphic
+  - Spark SQL (Structure processing)
+  - Spark Streaming (real time processing (AI))
+  - ML Lib ()
+  - Graphic (Graph processing, linkedn in connection graph structure)
   
   Spark Nothing but Processing Engine only 
   File, DB, S3 
