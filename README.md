@@ -97,4 +97,4 @@ Cluster Manager
 
 Here in spark we keep data at the worker node in HDFC, S3, files
 
-in cloud software managed by spark and hardware managed by aws 
+in cloud, software managed by spark and hardware managed by aws 
