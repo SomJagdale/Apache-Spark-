@@ -47,10 +47,11 @@ Map Reduce - Was very popular
           
       file -> read that file in to memory(Mapping) -> Temp location in disk -> Reduce read it and write to another file location 
       here we have to read 2 time and write 2 times 
-     
+      Batch Processing  => last working day => csv file => cron jobs => banks read the cvs file(working days, bonus etc) => bank account credit => message notification
      
   distribution system has main critical point is 
   network bandwidth 
   read/write disk operations 
+  
   
   
