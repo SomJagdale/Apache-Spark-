@@ -98,3 +98,9 @@ Map Reduce - Was very popular
 ### Here in spark we keep data at the worker node in HDFC, S3, files
 
 in cloud, software managed by spark and hardware managed by aws 
+
+
+### interactions 
+  - Interactive (Shell - spark-shell, pyspark, r spark)
+  - Application (API)
+
