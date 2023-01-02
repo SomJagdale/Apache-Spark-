@@ -104,3 +104,4 @@ in cloud, software managed by spark and hardware managed by aws
   - Interactive (Shell - spark-shell, pyspark, r spark)
   - Application (API)
 
+### RDD - Resilient distributed dataset 
