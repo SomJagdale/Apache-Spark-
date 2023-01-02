@@ -78,3 +78,13 @@ Spark Architecture
   File, DB, S3 
   
   
+ Driver program 
+  - smpart context 
+  - Main program 
+  - Master
+  - who will govern
+  - where to job to be send
+  - how to do schedulling 
+  - Entry point 
+ 
+Worker node, it has executor, it has task/job, 
