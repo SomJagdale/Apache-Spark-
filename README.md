@@ -105,3 +105,9 @@ in cloud, software managed by spark and hardware managed by aws
   - Application (API)
 
 ### RDD - Resilient distributed dataset 
+    -  In memory computation 
+    -  abstraction ram 
+    -  It nothing but pointers 
+    -  Partition1 + Partition2 + partition3 
+    -  5MB + 6MB + 5MB
+    
