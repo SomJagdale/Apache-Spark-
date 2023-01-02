@@ -88,3 +88,13 @@ Spark Architecture
   - Entry point 
  
 Worker node, it has executor, it has task/job, 
+   - JVM process - where SC will send the program to run
+   -  
+
+Cluster Manager
+   - Pool of resource 
+
+
+Here in spark we keep data at the worker node in HDFC, S3, files
+
+in cloud software managed by spark and hardware managed by aws 
