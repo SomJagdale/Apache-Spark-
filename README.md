@@ -54,4 +54,16 @@ Map Reduce - Was very popular
   read/write disk operations 
   
   
-  
+ realtime processing was not possible with the map reduce technology 
+ answer to that issue is spark 
+ 
+ He is introduced to world is spark
+ Spark is nearly 50times faster than the map reduce, also sometime its reaches to 100time faster.
+ 
+ What is archtecture doing that benifits 
+ 
+ Spark is 
+      - distributed falt talerance engine 
+      - in-memory procesisng engine(it happens in map reduce- but intermedit disk operation, here is on read and one write operation)
+      - in-memory operation happens on the each cluster node
+    
